@@ -33,7 +33,7 @@ Properly setting the locale is important for associating localized text found in
 **Note:** The theme comes with localized text in English (`en`, `en-US`, `en-GB`). If you change `locale` in `_config.yml` to something else, most of the UI text will go blank. Be sure to add the corresponding locale key and translated text to `_data/ui-text.yml` to avoid this.
 {: .notice--warning}
 
-### Site Title
+### Torin Stetina
 
 The name of your site. Is used throughout the theme in places like the site masthead and `<title>` tags.
 
